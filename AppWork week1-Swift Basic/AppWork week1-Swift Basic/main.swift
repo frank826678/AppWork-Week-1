@@ -199,4 +199,6 @@ multiply(a: 4, b: 3)
 //Others
 //Please describe how to establish a github repo and how to upload the local projects to github. Try to explain it as detail as possible.
 
-// Test1
+// 因為我們要使用 github的關係 所以需要先註冊github的帳號,並且按照官網的操作建立一個新的repository 選擇 create a new repository on command line, 並照著上面的內容按部就班輸入指令 echo~ init~ add~ commit~remote~ 這裡會用到 origin 這邊是指代表後面那串網址 指向位置）的意思 以後就不用輸入後面的網址 只要輸入  origin 即可 , push 時輸入帳密即可。git push -u origin master， -u 是指upstream 的意思,指向並追蹤(track)某個分支,通常upstream 會是遠端Server上的某個分支，要設定在本地端其他分支也可以。上指令是把master 分支的內容 推向origin的位置。Working Directory 用git add 到 Staging Area , git commit 到 Repository.隨時可以用 git status 檢查狀態來確保指令是否有用對，我覺得這個指令對剛用git的人很有幫助。
+
+//END 20180708 0100
