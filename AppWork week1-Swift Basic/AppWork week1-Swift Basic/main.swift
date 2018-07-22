@@ -82,7 +82,7 @@ for number in 0...myFriends.count-1{
 print(myFriends[0])
 
 //Q8
-print(myFriends.last!)
+print(myFriends.last)
 
 //Dictionary
 
